@@ -1,6 +1,8 @@
 
 body{
     background-color:antiquewhite;
+    background-image: url(https://images.wallpapersden.com/image/download/spider-man-amazing-art_a2poZm6UmZqaraWkpJRmbmdlrWZlbWU.jpg);
+    
 }
 h1{
     background-color: aquamarine;
@@ -10,4 +12,10 @@ h1{
 #para1{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: blueviolet;
+    border-style: dotted;
 }   
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aqua;
+    border-style: dashed;
+}
